@@ -1,8 +1,8 @@
 ---
-title: Verwaltung der Benutzer
-slug: benutzer
-description: "In diesem Kapitel finden Sie alle nützlichen Informationen über die Benutzerverwaltung. Diese Aufgabe betrifft nur die Kantonsverantwortlichen."
-weight: 40
+title: Die Internetseite
+slug: reise
+description: "Hier finden Sie bisher noch nichts."
+weight: 10
 type: docs
 keywords: []
 ---
