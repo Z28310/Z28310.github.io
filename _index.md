@@ -1,8 +1,8 @@
 ---
-title: Die Internetseite
-slug: reise
-description: "Hier finden Sie bisher noch nichts."
-weight: 10
+title: Beste Internetseite der Welt
+slug: Verwender
+description: "In diesem Kapitel finden Sie absolut nichts, ist voerst nur eine Testseite"
+weight: 20
 type: docs
 keywords: []
 ---
